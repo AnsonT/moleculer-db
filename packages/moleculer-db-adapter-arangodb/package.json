@@ -1,0 +1,31 @@
+{
+  "name": "moleculer-db-adapter-arangodb",
+  "version": "1.0.0",
+  "description": "Moleculer DB adapter for Arangodb",
+  "keywords": [
+    "moleculerjs",
+    "arangodb"
+  ],
+  "author": "Anson Tsao <tsaoa@acm.org>",
+  "homepage": "https://github.com/moleculerjs/moleculer-db/tree/master/packages/moleculer-db-adapter-arangodb#readme",
+  "license": "MIT",
+  "main": "dist/moleculer-db-adapter-arangodb.js",
+  "module": "dist/moleculer-db-adapter-arangodb.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnsonT/moleculer-db.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/AnsonT/moleculer-db/issues"
+  }
+}
